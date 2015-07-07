@@ -10,17 +10,22 @@ from sklearn.cluster import KMeans, MiniBatchKMeans
 from sklearn.decomposition import TruncatedSVD
 from sklearn.preprocessing import Normalizer
  
-FILENAME = 'tweets.csv'
-NUM_CLUSTERS = 5
+FILENAME = 'lessons_view.csv'
+NUM_CLUSTERS = 10
 LSA_DIM = 500
 MAX_DF = 0.8
-MAX_FEATURES = 10000
+MAX_FEATURES = 100000
 MINIBATCH = True
  
 def get_tweets_from_csv(filename):
     ret = csv.reader(open(filename))
-    tweets = [r[5].decode('utf-8') for r in ret]
-    # print tweets
+    print ret
+    # tweets = []
+    # for r in ret:
+    #     if len(r[2]) != 0:
+    #         tweets.append(r[2].decode('utf-8'))
+    tweets = [r[2].decode('utf-8') for r in ret]
+    print tweets
  
     for tweet in tweets[:]:
         if u'@' in tweet:

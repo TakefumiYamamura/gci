@@ -1,0 +1,3004 @@
+0: 
+              政治学史演習              Seminar in History of Political Theory
+            
+0: 
+              Japanese Politics演習              Seminar in Japanese Politics
+            
+0: 
+              日本政治演習              Seminar in Japanese Politics
+            
+0: 
+              日本政治外交史演習              Seminar in Japanese Political & Diplomatic History
+            
+0: 
+              日本政治思想史演習              Seminar in History of Japanese Political Thoughts
+            
+0: 
+              政治学演習              Seminar in Political Science
+            
+0: 
+              国際政治演習              Seminar in International Politics
+            
+0: 
+              ヨーロッパ政治史演習              Seminar in European Political History
+            
+0: 
+              アジア政治外交史演習              Seminar in Asian Political & Diplomatic History
+            
+0: 
+              アメリカ政治外交史演習              Seminar in American Political & Diplomatic History
+            
+0: 
+              日本法制史演習              Seminar in Japanese Legal History
+            
+0: 
+              日本近代法史演習              Seminar in Legal History of Modern Japan
+            
+0: 
+              国際法演習              Seminar in International Law
+            
+0: 
+              日本政治史              Political History of Japan
+            
+0: 
+              国際政治理論演習              Theory of International Politics (Seminar)
+            
+0: 
+              国際政治史              History of International Politics
+            
+0: 
+              比較政治演習              Seminar in Comparative Politics
+            
+0: 
+              政治学史              History of Political Theory
+            
+0: 
+              日本政治外交史              Japanese Political & Diplomatic History
+            
+0: 
+              経済法演習              Seminar in Economic Law
+            
+0: 
+              国際経済法演習              Seminar in International Economic Law
+            
+0: 
+              日本政治思想史              History of Japanese Political Thoughts
+            
+0: 
+              日本史学演習              Seminar in Japanese History
+            
+0: 
+              科学技術史演習Ⅱ              History of Science and Technology II (Seminar)
+            
+0: 
+              東洋法制史演習              Seminar in Oriental Legal History
+            
+0: 
+              法哲学演習              Seminar in Philosophy of Law
+            
+0: 
+              ドイツ法演習              Seminar in German Law
+            
+0: 
+              ヨーロッパ法演習              Seminar in EC Law
+            
+0: 
+              行政法演習              Seminar in Administrative Law
+            
+0: 
+              ヨーロッパ政治史              European Political History
+            
+0: 
+              日本政治              Japanese Political
+            
+0: 
+              ラテンアメリカ政治史              Latin American Political History
+            
+0: 
+              アジア政治外交史              Asian Political & Diplomatic History
+            
+0: 
+              金融法演習              Seminar in Financial Law
+            
+0: 
+              労働法演習              Seminar in Labor Law
+            
+0: 
+              アメリカ政治外交史              American Political & Diplomatic History
+            
+0: 
+              数学演習              Exercises in Mathematics
+            
+0: 
+              哲学演習              Seminar in Philosophy
+            
+0: 
+              イスラーム法演習              Seminar in Islamic Law
+            
+0: 
+              力学演習              Exercise on Mechanics
+            
+0: 
+              ローマ法演習              Seminar in Roman Law
+            
+0: 
+              国際政治              International Politics
+            
+0: 
+              租税法演習              Seminar in Tax Law
+            
+0: 
+              日本近代法史              Legal History of Modern Japan
+            
+0: 
+              社会保障法演習              Seminar in Social Security Law
+            
+0: 
+              東洋史学演習              Seminar in Oriental History
+            
+0: 
+              日本法制史              Japanese Legal History
+            
+0: 
+              西洋史学演習              Seminar in Occidental History
+            
+0: 
+              宗教史学演習              Seminar in Religious Studies
+            
+0: 
+              宗教史学演習(1)              Seminar in the History of Religions (1)
+            
+0: 
+              民法演習              Seminar in Civil Law
+            
+0: 
+              民事訴訟法演習              Seminar in Civil Procedure
+            
+0: 
+              国際体系演習              International Systems  (Seminar)
+            
+0: 
+              商法演習              Seminar in Commercial Law
+            
+0: 
+              現代哲学特殊演習Ⅱ              Special Seminar on Contemporary Philosophy II
+            
+0: 
+              刑事訴訟法演習              Seminar in Criminal Procedure
+            
+0: 
+              プログラミング演習Ⅱ              Programming Laboratory II
+            
+0: 
+              英米法演習              Seminar in Anglo-American Law
+            
+0: 
+              情報処理演習              Exercises in Information Technology
+            
+0: 
+              環境計画演習              Exercise for building environment plan
+            
+0: 
+              憲法演習              Seminar in Constitutional Law
+            
+0: 
+              知的財産法演習              Seminar in Intellectual Property Law
+            
+0: 
+              美術史学演習              Seminar in History of Art
+            
+0: 
+              刑法演習              Seminar in Criminal Law
+            
+0: 
+              教育社会科学演習II              Seminar in the Education and Social Science II
+            
+0: 
+              ラテンアメリカ文学演習Ⅰ              Latin American Literature I (Seminar)
+            
+0: 
+              フィールド演習              Fieldwork Exercise
+            
+0: 
+              日本経営史              Business History of Japan
+            
+0: 
+              卒論演習              Graduation Thesis Seminar
+            
+0: 
+              総合プロジェクト演習              Independent Project
+            
+0: 
+              材料力学演習              Exercise in Material Mechanics
+            
+0: 
+              卒業論文演習Ⅰ              Graduation Thesis Seminar I
+            
+0: 
+              初級化学英語演習              
+            
+0: 
+              応用倫理演習Ⅱ              Seminar for Applied EthicsⅡ
+            
+0: 
+              特別演習(特別演習指導を含む)              Special Seminar
+            
+0: 
+              有機化学演習              Practice in Organic Chemistry
+            
+0: 
+              鉄筋コンクリート構造演習              Exercises in Reinforced Concrete Design
+            
+0: 
+              国際農学情報処理演習              Practice on Agricultural Data Analysis
+            
+0: 
+              鉄骨構造演習              Exercises in Steel Structure Design
+            
+0: 
+              東洋法制史              Oriental Legal History
+            
+0: 
+              フランス思想テクスト分析演習              Textual Analysis of French Thought (Seminar)
+            
+0: 
+              現代政治理論              Contemporary Political Theory
+            
+0: 
+              比較政治III（先進国の政治）              Comparative Politics III(Government and Politics in advanced nation)
+            
+0: 
+              西洋法制史              Occidental Legal History
+            
+0: 
+              中国地域特殊演習              Special Studies： Culture and Society in China (Seminar)
+            
+0: 
+              環境・設備演習              Exercises in Mechanical Equipment and Environmental Engineering of Building
+            
+0: 
+              物理化学及び演習II              Physical Chemistry and Exercises II
+            
+0: 
+              比較政治II（発展途上国の政治）              Comparative Politics II(Politics in Developing Countries)
+            
+0: 
+              比較政治I（旧社会主義諸国の政治）              Comparative Politics I(Government and Politics in Post-socialist Countries)
+            
+0: 
+              ロシア東欧文学テクスト分析演習Ⅰ              Textual Analysis of Russian and East European Literature (Seminar) I
+            
+0: 
+              地中海古典テクスト分析演習Ⅲ              Textual Analysis of Classical Literature III
+            
+0: 
+              アラブ地域特殊演習              Special Studies： Culture and Society in the Arab World (Seminar)
+            
+0: 
+              知能ソフトウェア演習              Intelligent Software Project
+            
+0: 
+              社会基盤史              History of Japanese Civil Engineering
+            
+0: 
+              東洋倫理思想史概説(2)              History of Ethical Thought in Orient (2)
+            
+0: 
+              朝鮮近現代史              Korean History
+            
+0: 
+              南アジア近現代史              Modern History of South Asia
+            
+1: 
+              アカデミック・ライティング              Academic Writing
+            
+1: 
+              アントレプレナーシップ              Entrepreneurship
+            
+1: 
+              Nanoscience              Nanoscience
+            
+1: 
+              Sustainable Urban Management              Sustainable Urban Management
+            
+1: 
+              特別講義　金融法              Financial Law
+            
+1: 
+              国際法第２部              International Law II
+            
+1: 
+              特別講義　Introduction to Japanese law in English              Introduction to Japanese law in English
+            
+1: 
+              特別講義　Human Security:Asian Perspectives              Human Security:Asian Perspectives
+            
+1: 
+              特別講義　Comparative Political Institutions in Asia              Comparative Political Institutions in Asia
+            
+1: 
+              特別講義　Japan in Today's World              Japan in Today's World
+            
+1: 
+              特別講義　Boom and Bust: the Political Economy of Development in East Asia              Boom and Bust: the Political Economy of Development in East Asia
+            
+1: 
+              国際法第１部              International Law I
+            
+1: 
+              特別講義　国際政治経済論              International Political Economy
+            
+1: 
+              特別講義　医事法              Law and Medicine
+            
+1: 
+              特別講義　現代中国の政治              Politics in Contemporary China
+            
+1: 
+              行政法第２部              Administrative Law II
+            
+1: 
+              特別講義　現代アメリカの政治              Current American Politics
+            
+1: 
+              特別講義　国際行政論              International Administration
+            
+1: 
+              特別講義　現代日本政治              Contemporary Japanese Politics
+            
+1: 
+              特別講義　現代イギリスの政治              Current British Politics
+            
+1: 
+              特別講義　現代ラテンアメリカの政治              Contemporary Politics of Latin America
+            
+1: 
+              行政法第１部              Administrative Law I
+            
+1: 
+              特別講義　高齢者法              
+            
+1: 
+              特別講義　都市行政学              Urban Administration
+            
+1: 
+              特別講義　現代中東の政治              Contemporary Middle Eastern Politics
+            
+1: 
+              特別講義　現代朝鮮半島の政治              Contemporary Korean Political Studies
+            
+1: 
+              特別講義　アジアビジネス法と企業法務              
+            
+1: 
+              民事訴訟法第２部              Civil Procedure II
+            
+1: 
+              ドイツ語(初級)(第三外国語)(２)              German(Introductory)(3rd Foreign Language)(２)
+            
+1: 
+              中国語(初級)(第三外国語)(２)              Chinese(Introductory)(3rd Foreign Language)(２)
+            
+1: 
+              特別講義　日本語入門              Introduction to the Japanese Language
+            
+1: 
+              特別講義　金融商品取引法              Financial Instruments and Exchange Act
+            
+1: 
+              特別講義　現代日本外交              Japanese Foreign Policy
+            
+1: 
+              特別講義　国際紛争研究              Introduction to International Conflicts
+            
+1: 
+              スペイン語(初級)(第三外国語)(２)              Spanish(Introductory)(3rd Foreign Language)(２)
+            
+1: 
+              民事訴訟法第１部              Civil Procedure I
+            
+1: 
+              民事訴訟法第３部              Civil Procedure III
+            
+1: 
+              ロシア語(初級)(第三外国語)(２)              Russian(Introductory)(3rd Foreign Language)(２)
+            
+1: 
+              特別講義　法医学              Legal Medicine
+            
+1: 
+              ドイツ語(初級)(第三外国語)(１)              German(Introductory)(3rd Foreign Language)(１)
+            
+1: 
+              経済法              Economic Law
+            
+1: 
+              中国語(初級)(第三外国語)(１)              Chinese(Introductory)(3rd Foreign Language)(１)
+            
+1: 
+              電気系特別講義第一              Special Lectures on Electrical, Electronic, and Information and Communication Engineering 1
+            
+1: 
+              民法第２部              Civil Law II
+            
+1: 
+              スペイン語(初級)(第三外国語)(１)              Spanish(Introductory)(3rd Foreign Language)(１)
+            
+1: 
+              生物情報科学特別講義Ⅰ              
+            
+1: 
+              ロシア語(初級)(第三外国語)(１)              Russian(Introductory)(3rd Foreign Language)(１)
+            
+1: 
+              スペイン語(初級)(第三外国語)(３)              Spanish(Introductory)(3rd Foreign Language)(３)
+            
+1: 
+              商法第２部              Commercial Law II
+            
+1: 
+              ドイツ語(初級)(第三外国語)(４)              German(Introductory)(3rd Foreign Language)(４)
+            
+1: 
+              韓国朝鮮語(初級)(第三外国語)(１)              Korean(Introductory)(3rd Foreign Language)(１)
+            
+1: 
+              教育法              Educational Law
+            
+1: 
+              イタリア語(初級)(第三外国語)(４)              Italian(Introductory)(3rd Foreign Language)(４)
+            
+1: 
+              憲法第２部              Constitutional Law II
+            
+1: 
+              中国語(初級)(第三外国語)(４)              Chinese(Introductory)(3rd Foreign Language)(４)
+            
+1: 
+              韓国朝鮮語(初級)(第三外国語)(３)              Korean(Introductory)(3rd Foreign Language)(３)
+            
+1: 
+              刑法第２部              Criminal Law II
+            
+1: 
+              化学特別実験              Special Laboratory Work in Chemistry
+            
+1: 
+              フランス語(初級)(第三外国語)(１)              French(Introductory)(3rd Foreign Language)(１)
+            
+1: 
+              民法第１部              Civil Law I
+            
+1: 
+              スペイン語(初級)(第三外国語)(４)              Spanish(Introductory)(3rd Foreign Language)(４)
+            
+1: 
+              生物化学特別実験I              Special Laboratory Work in Biochemistry and Molecular Biology I
+            
+1: 
+              民法第３部              Civil Law III
+            
+1: 
+              ドイツ法              German Law
+            
+1: 
+              韓国朝鮮語(初級)(第三外国語)(４)              Korean(Introductory)(3rd Foreign Language)(４)
+            
+1: 
+              商法第１部              Commercial Law I
+            
+1: 
+              商法第３部              Commercial Law III
+            
+1: 
+              憲法第１部              Constitutional Law I
+            
+1: 
+              刑法第１部              Criminal Law I
+            
+1: 
+              民法第４部              Civil Law IV
+            
+1: 
+              中国法              Chinese Law
+            
+1: 
+              社会科教育法Ⅰ              Teaching Methods of Social Studies I
+            
+1: 
+              航空機設計法第一              Airplane Design 1
+            
+1: 
+              特別実験I              Senior Projects in Experimental Physics I
+            
+1: 
+              薬事法・特許法              Pharmaceutical Affairs Law and Patent Law
+            
+1: 
+              英語科教育法Ⅱ              Teaching Methods of English II
+            
+1: 
+              英語科教育法IV              English Language Teaching Methods IV
+            
+1: 
+              少人数講義(澤田　Ⅱ）              Small-group Tutorial
+            
+1: 
+              先端技術と社会特別講義Ⅱ（偶数年開講）              Frontier of Technology UG Ⅱ
+            
+1: 
+              法哲学              Philosophy of Law
+            
+1: 
+              労働法              Labor Law
+            
+1: 
+              フランス法              French Law
+            
+1: 
+              国語科教育法IV              Japanese Language Teaching Methods IV
+            
+1: 
+              ドイツ語学ドイツ文学特殊講義              Topics in German Language and Literature
+            
+1: 
+              理科教育法Ⅰ              Teaching Methods of Sciences I
+            
+1: 
+              橋の計画と設計              Planning and Design of Bridges
+            
+1: 
+              社会保障法              Social Security Law
+            
+1: 
+              総合日本語(２３)              Integrated Japanese(２３)
+            
+1: 
+              教育の生理学              Educational Physiology
+            
+1: 
+              イスラーム法              Islamic Law
+            
+1: 
+              イタリア語学イタリア文学特殊講義              Topics in Italian Language and Literature
+            
+1: 
+              イタリア語学イタリア文学特殊講義(1)              Topics in Italian Language and Literature （1）
+            
+1: 
+              疫学研究の計画と解析              Design and Analysis of Epidemiological Reserch
+            
+1: 
+              比較法原論              Principles of Comparative Law
+            
+1: 
+              数学２Ｂ              Mathematics 2-B
+            
+1: 
+              イタリア語初級(2)              Elementary Italian (2)
+            
+1: 
+              特許法              Patent Regulation
+            
+1: 
+              中国語学中国文学特殊講義              Topics in Chinese Language and Literature
+            
+1: 
+              論文構成法              English Paper Writing
+            
+1: 
+              国際経済              International Economics
+            
+1: 
+              応用プロジェクトI              Applied Project I
+            
+1: 
+              応用プロジェクトII              Applied Project II
+            
+1: 
+              応用プロジェクトIII              Applied Project III
+            
+1: 
+              応用プロジェクトIV              Applied Project IV
+            
+1: 
+              応用プロジェクトV              Applied Project V
+            
+1: 
+              ローマ法              Roman Law
+            
+1: 
+              言語と社会Ⅰ              Language and Society I
+            
+1: 
+              森山　工              MORIYAMA　Takumi
+            
+1: 
+              租税法              Tax Law
+            
+1: 
+              ヒンディー語(2)              Hindi (2)
+            
+1: 
+              数学３              Mathematics 3
+            
+1: 
+              数学２Ｄ              Mathematics 2-D
+            
+1: 
+              外国語論文講読Ⅱ              Foreign Language Academic Readings II
+            
+1: 
+              外国語論文講読Ⅰ              Foreign Language Academic Readings I
+            
+1: 
+              アジアの経済開発              Economical Developments in Asian Countries
+            
+1: 
+              構造の力学              Structural Mechanics
+            
+1: 
+              西洋哲学史概説第1部              Historical Outline of Occidental Philosophy Ⅰ
+            
+1: 
+              国際プロジェクトのケーススタディ              Case Studies of Intrnational Projects
+            
+1: 
+              数学２Ｇ              Mathematics 2-G
+            
+1: 
+              環境・エネルギー領域プロジェクト２              Specialized Project in Environment and Energy 1
+            
+1: 
+              刑事訴訟法              Criminal Procedure
+            
+1: 
+              生物化学実験              Laboratory Work in Biological Experiments
+            
+1: 
+              数学２Ｆ              Mathematics 2-F
+            
+1: 
+              英米法              Anglo-American Law
+            
+1: 
+              言語の対照と類型Ⅱ              Contrastive and Typological Linguistics II
+            
+1: 
+              電気回路理論第一              Theory of Electric Circuits 1
+            
+1: 
+              テクスト精読法Ⅳ              Approaches to Text Reading IV
+            
+1: 
+              国際プロジェクト序論              Basic of International Development and Projects
+            
+1: 
+              都市経済              Urban Economy
+            
+1: 
+              原動機推進理論第三              Theory of Aerospace Propulsion 3
+            
+1: 
+              数学１Ｂ              Mathematics 1-B
+            
+1: 
+              卒業考査              Graduation　Defense
+            
+1: 
+              芸術作品分析法Ⅲ              Approaches to Arts Analysis III
+            
+1: 
+              材料の力学              Mechanics of Materials
+            
+1: 
+              文学と思想Ⅰ              Literature and Thought I
+            
+1: 
+              知的財産法              Intellectual Property Law
+            
+1: 
+              ロシア・旧ソ連法              Russian Law
+            
+1: 
+              数学Ⅰ              Mathematics I(Graduate Level)
+            
+1: 
+              数学１Ｄ              Mathematics 1-D
+            
+1: 
+              ドイツ語後期(2)              Intermediate German (2)
+            
+1: 
+              消費者法              Consumer Law
+            
+1: 
+              エネルギーと社会              Energy and Society
+            
+1: 
+              言語の認知科学Ⅰ              Cognitive Science of Language I
+            
+1: 
+              量子化学              Quantum Chemistry
+            
+1: 
+              量子化学 III              Quantum Chemistry III
+            
+1: 
+              量子化学II              Quantum Chemistry II
+            
+1: 
+              数学１Ａ              Mathematics 1-A
+            
+1: 
+              生物素材化学実験              Experiments in Biobased Materials Chemistry
+            
+1: 
+              空気力学第五              Aerodynamics 5
+            
+1: 
+              プロジェクトマネジメント              Project Management
+            
+1: 
+              生物制御化学              Chemistry for Plant Growth and Protection
+            
+1: 
+              物理数学I              Mathematical Method I
+            
+1: 
+              数学１Ｅ              Mathematics 1-E
+            
+1: 
+              開発経済              Development Economics
+            
+1: 
+              経済原論              Principles of Political Economy
+            
+1: 
+              ドイツ語学ドイツ文学演習(3)              Seminar in German Language and Literature(3)
+            
+1: 
+              河川流域の環境とその再生              River and Watershed Restoration
+            
+1: 
+              美学史講義              Lectures on History of Aesthetics
+            
+1: 
+              スラヴ語圏言語文化(2)              Slavic Language and Cultures (2)
+            
+1: 
+              言語の変異・変化Ⅰ              Language Change and Variation I
+            
+1: 
+              設計・機械力学・機構通論              Outlines of Design, Dynamics, Mechanism
+            
+1: 
+              技術移転と開発              Technology Transfer and Development
+            
+1: 
+              産業・生活と環境技術              Environmental Technologies for Industry and Society
+            
+1: 
+              証券投資：理論と実践              Investment: Theory and Practice
+            
+1: 
+              変形体の力学              Dynamics of Deformable Bodies
+            
+1: 
+              地球水循環と社会              Global Engineering Hydrology
+            
+1: 
+              開発とインフラ              Development and Infrastructure
+            
+1: 
+              国際金融              International Finance
+            
+1: 
+              総合日本語(３)              Integrated Japanese(３)
+            
+1: 
+              創造的ものづくりプロジェクトⅠ              Creativity Engineering Project for UnderGraduate Ⅰ
+            
+1: 
+              創造的ものづくりプロジェクトⅡ              Creativity Engineering Project for UnderGraduate Ⅱ
+            
+1: 
+              創造的ものづくりプロジェクトⅢ              Creativity Engineering Project for UnderGraduate Ⅲ
+            
+1: 
+              言語理論Ⅰ              Linguistic Theories I
+            
+1: 
+              言語理論Ⅳ              Linguistic Theories IV
+            
+1: 
+              高齢化社会のリ・デザイン              Re-designing of Aged Society
+            
+1: 
+              企業と技術経営              Management of business and technology for civil engineers
+            
+1: 
+              神経と脳              Neurons and Brain
+            
+1: 
+              労働経済              Labor Economics
+            
+1: 
+              自然災害と都市防災              Natural Disasters and Urban Disaster Management
+            
+1: 
+              子供の証言と司法面接              Child Testimony and Forensic Interview
+            
+1: 
+              性能照査と設計              Performance Assessment and Design
+            
+1: 
+              言語科学への招待Ⅱ              Invitation to the Language Sciences II
+            
+1: 
+              信頼性設計とリスク分析              Reliability-based Design and Risk Analysis
+            
+1: 
+              上級日本経済              Advanced Japanese Economy(Graduate Level)
+            
+1: 
+              医化学              Medical Chemistry
+            
+1: 
+              都市保全計画              Urban Conservation Planning
+            
+1: 
+              栄養化学              Nutritional Biochemistry
+            
+1: 
+              有機化学II              Organic Chemistry II
+            
+1: 
+              環境水質化学              Environmental Aquatics Chemistry
+            
+1: 
+              国際投資              Global Investment Process
+            
+1: 
+              導入プロジェクト              Introductory Project
+            
+1: 
+              情報システム設計              Information System Design
+            
+1: 
+              設計情報システムII              Engineering Information System Ⅱ
+            
+1: 
+              都市交通システム計画              Urban Transportation System Planning
+            
+1: 
+              都市解析              Urban Analysis
+            
+1: 
+              土壌圏の科学              Soilsphere Science
+            
+1: 
+              風と構造物              Wind Engineering and Structures
+            
+1: 
+              応用数理              Applied Mathematics
+            
+1: 
+              高分子化学 II              Polymer Chemistry II
+            
+1: 
+              航空宇宙自動制御第二              Aerospace Automatic Control 2
+            
+1: 
+              イタリア地中海文学テクスト分析              Textual Analysis of Italian / Mediterranean Literature
+            
+1: 
+              社会基盤プロジェクト(卒研)              Civil Engineering Project
+            
+1: 
+              知識と知能              
+            
+1: 
+              マテリアル力学I              Mechanics for Materials Engineering I
+            
+1: 
+              日本文学              Japanese Literature
+            
+1: 
+              宇宙史と物質進化              Evolution of Matters and the Universe
+            
+1: 
+              応用水理学              Applied Hydraulics
+            
+1: 
+              数学講究XB              Research Work in Mathematics XB
+            
+1: 
+              分野別日本語(３)              Japanese in Specific Domains(３)
+            
+1: 
+              経済発展              Economic Development
+            
+1: 
+              イタリア語学概論              Introduction to Italian Philology
+            
+1: 
+              都市安全計画              Urban Security Planning
+            
+1: 
+              社会統計分析              Social Statistics (Seminar)
+            
+1: 
+              機械力学              Mechanical Dynamics
+            
+1: 
+              卒業論文(卒業論文指導を含む)              Graduation Thesis
+            
+1: 
+              数理手法IV（統計的機械学習入門）              Introduction to Statistical Machine Learning
+            
+1: 
+              国際私法              Private International Law
+            
+1: 
+              卒業論文              Graduation Thesis
+            
+1: 
+              精密動機付けプロジェクト              Introductory Project
+            
+1: 
+              都市交通施設計画              Planning of Urban Transport Facilities
+            
+1: 
+              総合日本語(１０)              Integrated Japanese(１０)
+            
+1: 
+              植物バイオマス化学              Plant Biomass Chemistry
+            
+1: 
+              印度語学印度文学演習(1)              Seminar in Indian Languages and Literatures （1）
+            
+1: 
+              マネジメント原論              Principles of Management
+            
+1: 
+              進化理論Ⅰ              Theory of Evolution Ⅰ
+            
+1: 
+              生理学              Physiology
+            
+1: 
+              国際協力概論              Introduction to International Cooperation
+            
+1: 
+              統計解析手法              Statistical Analysis Method
+            
+1: 
+              教育原理              Educational Principles
+            
+1: 
+              情報社会及び情報倫理              Information Society and Information Ethics
+            
+1: 
+              流砂系保全計画              Sediment Shed Conservation Planning
+            
+1: 
+              地理・空間調査設計Ⅱ              Research Design in Geography and Spacial Design II
+            
+1: 
+              ラテン語初級(1)              Elementary classical Latin (1)
+            
+1: 
+              ビジネスマネジメント入門              Introduction to Business and Management
+            
+1: 
+              保険理論              Insurance Theory
+            
+1: 
+              運動神経生理学              Neurophysiology of Exercise
+            
+1: 
+              脳科学入門              Introduction to Brain Science
+            
+1: 
+              振動・制御・計測              Dynamics, Control and Monitoring of Structures
+            
+1: 
+              健康教育(職域･地域)              Health Education (work sitex community)
+            
+1: 
+              水生動物生理学              Aquatic Animal Physiology
+            
+1: 
+              少人数セミナー I              Group Seminar on Civil Engineering I
+            
+1: 
+              少人数セミナーII              Group Seminar on Civil Engineering II
+            
+1: 
+              スポーツ生理学              Sports Physiology
+            
+1: 
+              数値解析              Numerical Analysis
+            
+1: 
+              情報医学              Health Imformatics
+            
+1: 
+              医学データ解析              Medical Data Analysis
+            
+1: 
+              河川-海岸計画概論              Introduction to River and Costal Design
+            
+1: 
+              アメリカ思想テクスト分析              American Thought and Ideas
+            
+1: 
+              英語後期(1)              Advanced English (1)
+            
+1: 
+              量子エレクトロニクス              Quantum Electronics
+            
+1: 
+              システムプランニング              System Planning
+            
+1: 
+              卒業制作              Architectural Thesis Project
+            
+1: 
+              水理学              Hydraulics
+            
+1: 
+              プロフェッショナル・コミュニケーションスキル              Professional Communication Skills
+            
+1: 
+              アカデミック・プレゼンテーション              Academic Presentation
+            
+1: 
+              確率統計Ⅱ              Probability and Mathematical Statistics II
+            
+1: 
+              原書講読              Seminar for Comprehension of English Articles
+            
+1: 
+              ソフトマター物理              Soft Matter Physics
+            
+1: 
+              鉄筋コンクリート構造              Reinforced Concrete Structures
+            
+1: 
+              教養学科入門Ⅳ              Introduction to Area Studies B
+            
+1: 
+              日本文化資料読解Ⅰ              Readings in Japanese Culture Documents I
+            
+1: 
+              鉄骨構造              Steel Structures
+            
+1: 
+              環境設備デザイン序論              A First Cource for Sustainable Design of Building Environment System
+            
+1: 
+              Quantum Chemistry I-GS              Quantum Chemistry I-GS
+            
+1: 
+              バイオメトリックス              Biometrics
+            
+1: 
+              算法通論              Outlines of Computer Programming and Numerical Computation
+            
+1: 
+              分子生物学              Molecular Biology
+            
+1: 
+              細胞分子生物学I              Cell and Molecular Biology I
+            
+1: 
+              Topics in Economic Theory              Topics in Economic Theory(Graduate Level)
+            
+1: 
+              野外考古学(1)              Methods of Field Archaeology (1)
+            
+1: 
+              経営管理              Business Administration
+            
+1: 
+              ヒューマンモデリング              Human Modeling
+            
+1: 
+              産業事情「医薬品産業」              Topics on Japnanese Industry (Pharmaceutical Industry)
+            
+1: 
+              職業指導              Vocational Guidance
+            
+1: 
+              Credit Rating (留学により認定：HEC)              Credit Rating (transferred from HEC)
+            
+1: 
+              原典を読む              Reading Texts
+            
+1: 
+              バイオテクノロジーI              Biotechnology I
+            
+1: 
+              Topics in Labor 2:Empirical Study on Returns to Human Capital              Topics in Labor 2:Empirical Study on Returns to Human Capital(Graduate Level)
+            
+1: 
+              救急処置              Basic Life Support and First Aid
+            
+1: 
+              スポーツバイオメカニクス              Sports Biomechanics
+            
+1: 
+              解剖示説              Demonstration in Anatomy
+            
+1: 
+              Academic Writing              Academic Writing
+            
+1: 
+              Advanced ALESS Ⅰ              Advanced ALESS I
+            
+1: 
+              生化学              Biochemistry
+            
+1: 
+              バリアフリー総論              Introduction to Barrier-free Studies
+            
+1: 
+              デザインマネージメント              Design Management
+            
+1: 
+              法学Ⅰ              Law I
+            
+1: 
+              Creative Writing and Contemporary Literature in the 21st Century              Creative Writing and Contemporary Literature in the 21st Century
+            
+1: 
+              Numerical Experiments and Structual Estimation              Numerical Experiments and Structual Estimation(Graduate Level)
+            
+1: 
+              不動産ファイナンス              Asset Linquidation and Real Estate Financing
+            
+1: 
+              Nuclear Reactor Engineering              Nuclear Reactor Engineering
+            
+2: 
+              精神保健学実習              Practice of Mental Health
+            
+2: 
+              環境保健学実習              Practice of　Environmental Health
+            
+2: 
+              基礎看護学実習              Clinical Practicum in Fundamental Nursing
+            
+2: 
+              看護管理学実習              Clinical Practicum in Nursing Administration
+            
+2: 
+              精神看護学実習              Clinical Practicum in Psychiatric and Mental Health Nursing
+            
+2: 
+              保健学実験･検査法実習              Laboratory Methods in Health Sciences
+            
+2: 
+              保健･医療管理実習              Practice of Health Services Administration
+            
+2: 
+              小児看護学実習Ⅰ              Clinical Practicum in Pediatric and Child Health Nursing I
+            
+2: 
+              小児看護学実習II              Clinical Practicum in Pediatric and Child Health Nursing II
+            
+2: 
+              成人看護学実習              Clinical Practicum in Adult Health Nursing
+            
+2: 
+              老年看護学実習              Clinical Practicum in Gerontological Nursing
+            
+2: 
+              母性看護学実習              Clinical Practicum in Maternal-Newborn Nursing
+            
+2: 
+              環境保健学              Environmental Health
+            
+2: 
+              国際保健学              International Health
+            
+2: 
+              社会基盤学実習              Internship in Civil Engineering
+            
+2: 
+              保健学英語I              English Health Sciences Ⅰ
+            
+2: 
+              保健学英語II              English Health Sciences Ⅱ
+            
+2: 
+              結晶学実習              Practical:Crystallography
+            
+2: 
+              総合情報学実習Ⅱ              Informatics II (Seminar)
+            
+2: 
+              社会心理学実験実習(1)              Seminar in Experimental Social Psychology (1)
+            
+2: 
+              精神保健学              Mental Health
+            
+2: 
+              空間情報学実習              Fieldwork in Spatial Information Engineering
+            
+2: 
+              人類学野外実習              Field Work in Anthropology
+            
+2: 
+              人類遺伝学実験実習              Practice on Human Gentics
+            
+2: 
+              国際プロジェクト実習              Fieldwork in International Projects
+            
+2: 
+              母子保健学              Maternal and Child Health
+            
+2: 
+              森林経理学実習              Practice in Forest Management
+            
+2: 
+              沿岸生態学実習              Practice in Coastal Ecology
+            
+2: 
+              科学技術インタープリター実験実習Ⅰ              Science Interpretation - Practicals I
+            
+2: 
+              放射線保健学              Radiation Health
+            
+2: 
+              生物科学特別実習III              Special Laboratory Work in Biological Science III
+            
+2: 
+              産業保健･看護              Occupational Health and Nursing
+            
+2: 
+              社会調査実習              Practice on Social Survey
+            
+2: 
+              動物生命・形態学実習              Practice in animal morphology
+            
+2: 
+              看護の統合と実践実習              Integrative Clinical Nursing Practicum
+            
+2: 
+              学校保健･看護              School Health and Nursing
+            
+2: 
+              健康支援実習              Practice on Health Promotion
+            
+2: 
+              健康支援実習Ⅱ              Practice on Health Promotion II
+            
+2: 
+              保健健康管理              Health Care & Health Administration
+            
+2: 
+              植物科学野外実習I              Field Work in Botany I
+            
+2: 
+              統計情報処理実習              Statistical Methods and Information Processing
+            
+2: 
+              保健と教育              Seminar on Health Sciences
+            
+2: 
+              保健･医療管理論              Health Services Administration
+            
+2: 
+              医化学実験実習              Practice on　Medical Chemistry
+            
+2: 
+              地球・生物圏環境科学実習              Field Work for Global System Sciences
+            
+2: 
+              水生動物生理学実習              Practice in Aquatic Animal Physiology
+            
+2: 
+              保健福祉行政I              Health Policy & Management
+            
+2: 
+              保健福祉行政II              Welfare Policy & Management
+            
+2: 
+              医学データ解析実習              Analysis of Medical Research Data with Practice Course
+            
+2: 
+              保健労働行政･法制              Occupational Health Policy & Law
+            
+2: 
+              牧場実習Ⅰ(獣医学専修)              Ranch Veterinary Training-I
+            
+2: 
+              大動物臨床・臨床繁殖実習              Practice in Large Animal Medicine, Surgery and Theriogenology
+            
+3: 
+              社会学演習              Seminar in Sociology
+            
+3: 
+              人類学演習IV              Anthropological Seminar IV
+            
+3: title
+3: 
+              政治学              Political Science
+            
+3: 
+              都市学              City Planning and Policy
+            
+3: 
+              社会学特殊講義(2)              Topics in Sociology (2)
+            
+3: 
+              社会学特殊講義              Topics in Sociology
+            
+3: 
+              行政学演習              Seminar in Science of Public Administration
+            
+3: 
+              法社会学              Sociology of Law
+            
+3: 
+              解析学VII              Analysis VII
+            
+3: 
+              解析学XE              Analysis XE
+            
+3: 
+              統計学              Statistics
+            
+3: 
+              環境経済学              Environmental Economics
+            
+3: 
+              設計学              Design Theory and Methodology
+            
+3: 
+              行政学              Science of Public Administration
+            
+3: 
+              文化人類学              Cultural Anthropology
+            
+3: 
+              心理学特殊講義              Topics in Psychology
+            
+3: 
+              社会心理学特殊講義              Topics in Social Psychology
+            
+3: 
+              日本語学Ⅰ              Japanese Linguistics I
+            
+3: 
+              国際経済学              International Economics
+            
+3: 
+              都市行政学演習              Seminar in Urban Administration
+            
+3: 
+              地域看護学              Community Health Nursing
+            
+3: 
+              免疫学              Immunology
+            
+3: 
+              国法学演習              Seminar in Comparative Constitutional Law
+            
+3: 
+              英語学概論              Introduction to English Linguistics
+            
+3: 
+              人類生態学              Human Ecology
+            
+3: 
+              人類遺伝学I              Human Gentics I
+            
+3: 
+              人類遺伝学II              Human Gentics II(advanced course)
+            
+3: 
+              小児看護学Ⅰ              Pediatric and Child Health NursingⅠ
+            
+3: 
+              小児看護学II              Pediatric and Child Health Nursing II
+            
+3: 
+              看護管理学              Nursing Administration
+            
+3: 
+              文化人類学特殊講義（中東・イスラームの人類学）              Lecture on Special Topics (Cultural Anthropology)
+            
+3: 
+              成人看護学I              Adult Health Nursing I
+            
+3: 
+              成人看護学II              Adult Health Nursing II
+            
+3: 
+              進化人類学              Evolutionary Anthropology
+            
+3: 
+              地球環境学              Holistic View of Global Environment
+            
+3: 
+              精神看護学              Psychiatric and Mental Health Nursing
+            
+3: 
+              老年看護学Ⅰ              Gerontological Nursing I
+            
+3: 
+              老年看護学II              Gerontological Nursing II
+            
+3: 
+              健康社会学              Health Sociology
+            
+3: 
+              医療人類学              Introduction to Medical Anthropology
+            
+3: 
+              法と経済学              Law and Economics
+            
+3: 
+              数学及力学演習Ｂ              Exercises in Mathematics and Mechanics B
+            
+3: 
+              生物物理学              Biophysics
+            
+3: 
+              死生学演習Ⅳ(1)              Seminar in Death and Life Studies IV(1)
+            
+3: 
+              発達心理学演習              Seminar in Developmental Psychology
+            
+3: 
+              国法学              Comparative Constitutional Law
+            
+3: 
+              国語学特殊講義(1)              Topics in Japanese Linguistics (1)
+            
+3: 
+              国語学特殊講義              Topics in Japanese Linguistics
+            
+3: 
+              交通学              Transportation Studies
+            
+3: 
+              農業経済学              Agricultural Economics
+            
+3: 
+              母性看護学              Maternal-Newborn Nursing
+            
+3: 
+              発生学              Embryology
+            
+3: 
+              文化資源学特殊講義              Topics in Cultural Resources Studies
+            
+3: 
+              教育心理学実験演習II              Experiments in Educational Psychology II
+            
+3: 
+              開発経済学              Development Economics
+            
+3: 
+              フランス語学概論              Introduction to French Philology
+            
+3: 
+              人間心理学              Human Psychology
+            
+3: 
+              家族看護学              Family Nursing
+            
+3: 
+              解剖学              Anatomy
+            
+3: 
+              栄養学              Nutrition
+            
+3: 
+              数学及力学演習Ｉ              Exercises in Mathematics and Mechanics I
+            
+3: 
+              動物生態学              Animal Ecology
+            
+3: 
+              数学及力学演習Ｇ              Exercises in Mathematics and Mechanics G
+            
+3: 
+              認知心理学              Cognitive Psychology
+            
+3: 
+              国際森林学              International Forestry
+            
+3: 
+              実解析学演習Ⅰ              Tutorial on Real Analysis I
+            
+3: 
+              空間情報学I              Spatial Information Engineering I
+            
+3: 
+              空間情報学II              Spatial Information Engineering II
+            
+3: 
+              代数学特別演習II              Advanced Exercise in Algebra II
+            
+3: 
+              大気環境学              Atmospheric Environment
+            
+3: 
+              景観学              Landscape and Civic Design
+            
+3: 
+              財政学              Public Finance
+            
+3: 
+              人口学              Demography
+            
+3: 
+              農業・資源経済学演習Ⅱ              Seminar on Agricultural and Resource Economics II
+            
+3: 
+              財務学              Financial Studies
+            
+3: 
+              民俗学              Folklore Studies
+            
+3: 
+              国土学              Regional and National Land Planning/Policy
+            
+3: 
+              土地学              Land Problems and Policies
+            
+3: 
+              会計学              Accounting
+            
+3: 
+              菌類学              Mycology
+            
+3: 
+              進化生態学              Evolutionary Biology
+            
+3: 
+              応用免疫学              Applied Immunology
+            
+3: 
+              確率統計学XA              Probability and Statistics XA
+            
+3: 
+              確率統計学XF              Probability and Statistics XF
+            
+3: 
+              森林生態学              Forest Ecology
+            
+3: 
+              幾何学XB              Geometry and Topology XB
+            
+3: 
+              英語学英米文学演習              Seminar in English Language and English & American Literature
+            
+3: 
+              英語学英米文学演習(1)              Seminar in English Language and English & American Literature(1)
+            
+3: 
+              病理学              Pathology
+            
+3: 
+              フランス語学フランス文学演習(1)              Seminar in French Language and Literature (1)
+            
+3: 
+              人文情報学特殊講義(2)              Topics in the Digital Humanities(2)
+            
+3: 
+              英語学英米文学特殊講義              Topics in English Language and English & American Literature
+            
+3: 
+              人間-環境システム学              Lecture:Human and Environment System
+            
+3: 
+              分子設計学              Molecular Design
+            
+3: 
+              美学芸術学演習(1)              Seminar in Aesthetics(1)
+            
+3: 
+              西洋古典学演習(2)              Seminar in Greek and Latin Languages and Literatures (2)
+            
+3: 
+              医療倫理学              Biomedical Ethics
+            
+3: 
+              食品免疫学              Food Immunology
+            
+3: 
+              社会基盤学序論              Introduction to Civil and Infrastructure Engineering
+            
+3: 
+              複素解析学              Complex Analysis
+            
+3: 
+              素粒子物理学              Particle Physics
+            
+3: 
+              人間発達学              Developmental Medicine
+            
+3: 
+              森林保全学              Forest Conservation
+            
+3: 
+              植物発生学I              Plant Developmental Biology I
+            
+3: 
+              薬理学総論              General Veterinary Pharmacology
+            
+3: 
+              木質構造学              Wooden Construction
+            
+3: 
+              農村計画学              Rural Planning
+            
+3: 
+              疫学･生物統計学              Epidemiology and Biostatistics
+            
+3: 
+              臨床薬理学              Clinical Pharmacology
+            
+3: 
+              農業基盤計画学              Rural Foundation Engineering
+            
+3: 
+              歴史地理学              Historical Geography
+            
+3: 
+              地盤の構造学              Geotechnical Engineering
+            
+3: 
+              水産資源学              Fisheries Biology
+            
+3: 
+              中国思想文化学概論(1)              Introduction to Chinese Philosophy (1)
+            
+3: 
+              地球惑星物理学実験              Experiments in Earth and Planetary Physics
+            
+3: 
+              博物館学特別研究              Special Studies in Museum Activities
+            
+3: 
+              セラミック材料学              Ceramic Materials
+            
+3: 
+              金属材料学              Metallic Materials
+            
+3: 
+              植物分子遺伝学              Plant Molecular Genetics
+            
+3: 
+              上級ミクロ経済学Ⅱ              Advanced Microeconomics II(Graduate Level)
+            
+3: 
+              薬理･毒性学              Pharmacology and Toxicology
+            
+3: 
+              外科学総論              Principle of Veterinary Surgery
+            
+3: 
+              凝縮系物理学              Condensed Matter Physics
+            
+3: 
+              公共経営学              Public Management
+            
+3: 
+              大動物臨床学              Large Animal Medicine and Surgery
+            
+3: 
+              微生物･医動物学              Microbiology
+            
+3: 
+              インド哲学仏教学演習              Seminar in Indian Philosophy and Buddhist Studies
+            
+3: 
+              現代遺伝学[統合生命科学コース]              Modern Genetics
+            
+3: 
+              伝染病学              Epizootiology
+            
+3: 
+              地球惑星環境学野外調査II              Field Exercise:Earth and Planetary Environmental Science II
+            
+3: 
+              動物系統分類学              Systematic Zoology
+            
+3: 
+              地球惑星環境学野外巡検I              Field Excursion:Earth and Planetary Environmental Science I
+            
+3: 
+              食品安全評価学              Methodology and Practice on Food Safety Assessment
+            
+3: 
+              大気海洋系物理学              Physics of Ocean-atmosphere System
+            
+3: 
+              病態生理免疫学              Clinical Immunology
+            
+3: 
+              航空宇宙システム学製図              Drawing on Aerospace Systems
+            
+3: 
+              生体調節機構学              Regulatory Biology
+            
+3: 
+              生物多様性学Ⅰ[地球システム・エネルギーコース]              Biodiversity I
+            
+3: 
+              連続体力学[統合生命科学コース]              Continuum Mechanics
+            
+4: 
+              社会技術論特論              Advanced Lectures on Sociotechnology
+            
+4: 
+              文化社会論演習[グローバル・エシックス]              Seminar on Philosophy of Culture and Ethics
+            
+4: 
+              現代社会論Ⅰ              Contemporary Social Issues I
+            
+4: 
+              社会技術論              Studies on Sociotechnology
+            
+4: 
+              都市社会論              Theory of Urbanism Society
+            
+4: 
+              現代ツーリズム論              Contemporary Tourism
+            
+4: 
+              科学技術社会論Ⅲ              Introduction to Science and Technology Studies Ⅲ
+            
+4: 
+              技術論              History and Philosophy of Technology
+            
+4: 
+              社会教育論II              Theories of Adult Education  II
+            
+4: 
+              文化社会論[現代思想コース]              Philosophy of Culture and Society
+            
+4: 
+              メディア文化論[言語態・テクスト文化論コース]              Studies on Media and Culture
+            
+4: 
+              科学技術リテラシー論Ⅱ              Science Literacy - A Course of Lectures II
+            
+4: 
+              疾病論I              Diseases in Adult Population I
+            
+4: 
+              疾病論II              Diseases in Adult Population II
+            
+4: 
+              ドイツ都市文化論              German Urban Culture
+            
+4: 
+              日本歴史文化論              Japanese Historical Culture Studies
+            
+4: 
+              地域論              Introduction to Regional Geography
+            
+4: 
+              比較日本文化論演習              Seminar on Comparative Japanese Culture
+            
+4: 
+              イギリス政治文化論演習              British Political Culture (Seminar)
+            
+4: 
+              フランス社会構造論              French Social Structure
+            
+4: 
+              表象文化基礎論              Principles of Cultural Representations
+            
+4: 
+              イギリス歴史社会論Ⅱ              British History and Society II
+            
+4: 
+              言語文化横断論演習（３）[言語態・テクスト文化論コース]              Seminar： Trans-Linguistic / Cultural Studies
+            
+4: 
+              フランス歴史文化論              French History and Culture
+            
+4: 
+              社会意識論              Social Psychology
+            
+4: 
+              国際経済論              International Economics
+            
+4: 
+              評価論              Evaluation Basic
+            
+4: 
+              構造設計特論              Advanced Structural Design
+            
+4: 
+              金融論              Money and Banking
+            
+4: 
+              科学哲学特論Ⅲ              Special Lecture on Philosophy of Science and Technology III
+            
+4: 
+              学際日本文化論演習Ⅳ              Seminar in Interdisciplinary Japanese Culture IV
+            
+4: 
+              ラテンアメリカ文化思想分析論              Analysis of Latin American Culture and Thought
+            
+4: 
+              認知行動科学特論Ⅰ              Current Topics in Cognitive and Behavioral Sciences I
+            
+4: 
+              イタリア地中海歴史社会論Ⅰ              Italian / Mediterranean History and Society I
+            
+4: 
+              進化行動論              Evolution and Human Behavior
+            
+4: 
+              現代文芸論演習              Seminar in Contemporary Literary Studies
+            
+4: 
+              都市交通論              Urban Transportation
+            
+4: 
+              表象メディア論演習              Seminar on Media and Representations
+            
+4: 
+              社会福祉･社会保障論              Social Welfare and Social Security
+            
+4: 
+              社会人類学理論Ⅰ              Theories of Social Anthropology I
+            
+4: 
+              精神疾病論              Mental Disorders
+            
+4: 
+              ドイツ言語様態論演習              German Language (Seminar)
+            
+4: 
+              ラテンアメリカ民族論演習Ⅰ              Latin American Peoples and Cultures I (Seminar)
+            
+4: 
+              現代法過程論演習              Seminar in Law and Social Science
+            
+4: 
+              空間行動論              Space and Human Behavior
+            
+4: 
+              生物物理学特論              Advanced Biophysics
+            
+4: 
+              応用倫理学演習Ⅱ[科学技術論コース]              Applied Ethics II (Seminar)
+            
+4: 
+              環境反応論              Environmental Reaction and Transport Phenomena
+            
+4: 
+              基盤技術設計論              Civil Engineering - Design and Technology -
+            
+4: 
+              表象メディア論              Media and Representations
+            
+4: 
+              都市住宅論              Urban Housing Theory
+            
+4: 
+              ドイツ言語様態論              German Language
+            
+4: 
+              母子疾病論              Maternal and Child Diseases
+            
+4: 
+              保健指導論              Health Teaching
+            
+4: 
+              倫理宗教論演習[グローバル・エシックス]              Seminar on Philosophy of Religion and Ethics
+            
+4: 
+              社会的意思決定論              Social Decision-Making Theory
+            
+4: 
+              環境調和論              Harmonious Environment Management
+            
+4: 
+              分子システム論Ⅱ              Molecular System II
+            
+4: 
+              在宅看護論              Home Health Nursing
+            
+4: 
+              環境安全原論特論              Special Lecture on Environmental and Safety Principles
+            
+4: 
+              ラテンアメリカ思想芸術論              Latin American Ideas and Arts
+            
+4: 
+              意思決定論              Decision Making
+            
+4: 
+              進化認知脳科学特論Ⅲ              Special Lectures III
+            
+4: 
+              職業倫理論              Professional Ethics
+            
+4: 
+              数学続論XA              Special Lectures in Mathematics XA
+            
+4: 
+              比較文学比較文化論演習Ⅰ              Seminar on Comparative Literature and Culture I
+            
+4: 
+              制御論第二              Control Theory 2
+            
+4: 
+              恒星進化論              Stellar Evolution
+            
+4: 
+              韓国朝鮮政治経済論Ⅰ              Korean Politics and Economy I
+            
+4: 
+              韓国朝鮮政治経済論Ⅱ              Korean Politics and Economy II
+            
+4: 
+              エネルギー資源論Ⅰ              Energy Technology and Natural Resources I
+            
+4: 
+              文化人類学特殊講義（民族地理論）              Lecture on Special Topics (Cultural Anthropology)
+            
+4: 
+              言語処理系論              Language Processing System
+            
+4: 
+              環境エネルギー政策論              Sustainable Energy Policies
+            
+4: 
+              社会研究特論：人々の移動              Advanced Social Research: Migration
+            
+4: 
+              計測通論Ｂ              Fundamentals of Technical Measurements B
+            
+4: 
+              行動測定評価論              Psychological/behavioral assessment
+            
+4: 
+              映像芸術論Ⅰ              Film Studies I
+            
+4: 
+              現代資本主義論              Modern Capitalism from the Historical Perspective
+            
+4: 
+              途上国プロジェクト特論              Projects in Developing Countries
+            
+4: 
+              高次生命機能特論Ⅰ              Current Topics in Higher-order Life Sciences I
+            
+4: 
+              電子回路論              Electronics
+            
+4: 
+              国際協力政策論              International Cooperation Policy
+            
+4: 
+              計測通論Ａ              Fundamentals of Technical Measurements A
+            
+4: 
+              計測通論Ｃ              Fundamentals of Technical Measurements C
+            
+4: 
+              荷重外力論              Loads on Structures
+            
+4: 
+              東アジア近代文学論              Modern East Asian Literature
+            
+4: 
+              伝統芸能論Ⅱ              Japanese Traditional Arts II
+            
+4: 
+              身体トレーニング論              Training Sciences
+            
+4: 
+              協同組合論              Principles of Cooperative
+            
+4: 
+              信号処理論第一              Signal Processing I
+            
+4: 
+              ロシア東欧民族関係論              Ethnic Relations in Russia and East Europe
+            
+4: 
+              ゲノム配列解析論II              
+            
+4: 
+              常微分方程式論演習              Tutorial on Ordinary Differential Equations
+            
+4: 
+              一般相対論[数理自然科学コース]              General Relativity
+            
+4: 
+              博物館資料論(歴史資料)              Introduction to Museum's Materials (Historical Document)
+            
+5: 
+              建築構法計画              Planning of Building Constructions
+            
+5: 
+              建築構造演習              Exercises in Building Structures
+            
+5: 
+              建築構法概論              Fundamental of Building Constructions
+            
+5: 
+              建築計画第一              Principles of Architectural Designing 1
+            
+5: 
+              建築計画第二              Principles of Architectural Designing 2
+            
+5: 
+              建築計画第三              Principles of Architectural Designing 3
+            
+5: 
+              建築材料計画              Building Materials Planning
+            
+5: 
+              建築構造計画概論              Introduction to Building Structural Engineering
+            
+5: 
+              建築材料演習              Exercises in Building Materials
+            
+5: 
+              建築基礎構造              Foundation Engineering
+            
+5: 
+              日本建築史              History of Japanese Architecture
+            
+5: 
+              建築設計製図第一              Architectural Design 1
+            
+5: 
+              建築材料科学              Building Materials Science
+            
+5: 
+              建築構造解析第一              Structural Analysis 1
+            
+5: 
+              建築倫理              Architectural Ethics
+            
+5: 
+              建築設計製図第二              Architectural Design 2
+            
+5: 
+              建築設計製図演習Ⅰ              Exercise of Architectural Design and Drawing Ⅰ
+            
+5: 
+              建築構造解析第二              Structural Analysis 2
+            
+5: 
+              建築材料学概論              Outline of Building Materials
+            
+5: 
+              建築設計製図第三              Architectural Design 3
+            
+5: 
+              建築総合演習              Exercises of Architecture and Building Engineering
+            
+5: 
+              建築構法特論              Selected Topics of Building Constructions
+            
+5: 
+              建築設備第一              Mechanical Equipment for Buildings 1
+            
+5: 
+              都市建築史概論              Urban and Architecture History
+            
+5: 
+              建築設備第二              Mechanical Equipment for Buildings 2
+            
+5: 
+              建築環境特論              Introduction to Advanced Environmental Plannning and Engineering
+            
+5: 
+              西洋建築史              History of Western Architecture
+            
+5: 
+              建築耐震構造              Earthquake Resistant Design of Building
+            
+5: 
+              建築設計製図第四              Architectural Design 4
+            
+5: 
+              建築法規              Architectural Code
+            
+5: 
+              (建築)卒業論文              Graduation Thesis, Architecture
+            
+5: 
+              建築施工              Method, Planning and Management of Building Construction
+            
+5: 
+              建築弾性学              Applied Elasticity for Buildings
+            
+5: 
+              建築熱環境              Thermal Environment in Buildings
+            
+5: 
+              建築意匠              Architectural Design
+            
+5: 
+              建築塑性学              Applied Plasticity for Buildings
+            
+5: 
+              近代都市建築史              Urban and Architectural History in the Modern Age
+            
+5: 
+              建築音環境              Acoustical Environment in Buildings
+            
+5: 
+              建築防火工学              Fire Protection of Building
+            
+5: 
+              日本住宅建築史              History of Japanese Dwelling
+            
+5: 
+              建築構造計算力学              Computer Analysis of Building Structure
+            
+5: 
+              建築空気環境・水環境              Air and Water Environment in Buildings
+            
+5: 
+              建築光環境・視環境              Luminous and Visual Environment in Buildings
+            
+6: 
+              特殊研究演習Ⅹ[アジア・日本研究コース]              Special Topics X (Seminar)
+            
+6: 
+              特殊研究演習Ⅶ[アジア・日本研究コース]              Special Topics VII (Seminar)
+            
+6: 
+              日本研究特殊演習Ⅰ              Japanese Area Studies I (Seminar)
+            
+6: 
+              日本研究特殊演習Ⅳ              Japanese Area Studies IV (Seminar)
+            
+6: 
+              特殊研究演習Ⅲ[イギリス研究コース]              Special Topics III (Seminar)
+            
+6: 
+              特殊研究演習Ⅱ[ドイツ研究コース]              Special Topics II (Seminar)
+            
+6: 
+              特殊研究演習Ⅹ[フランス研究コース]              Special Topics X (Seminar)
+            
+6: 
+              特殊研究演習Ⅵ[フランス研究コース]              Special Topics VI (Seminar)
+            
+6: 
+              特殊研究演習Ⅱ[イタリア地中海研究コース]              Special Topics II (Seminar)
+            
+6: 
+              特殊講義Ⅲ[イギリス研究コース]              Lectures on Special Topics III
+            
+6: 
+              特殊講義「国際社会研究Ⅰ」              Lectures on Special Topics (Studies of International Society I)
+            
+6: 
+              特殊講義「国際社会研究Ⅳ」              Lectures on Special Topics (Studies of International Society IV)
+            
+6: 
+              特殊研究演習Ⅲ[北アメリカ研究コース]              Special Topics III (Seminar)
+            
+6: 
+              特殊講義Ⅲ[アジア・日本研究コース]              Lectures on Special Topics III
+            
+6: 
+              特殊講義Ⅱ[フランス研究コース]              Lectures on Special Topics II
+            
+6: 
+              特殊講義Ⅱ[ラテンアメリカ研究コース]              Lectures on Special Topics II
+            
+6: 
+              特殊研究演習「地域社会論演習」              Seminar in Special Topics:Community Studies
+            
+6: 
+              特殊講義Ⅳ[イタリア地中海研究コース]              Lectures on Special Topics IV
+            
+6: 
+              特殊研究演習「卒業論文研究指導Ⅱ」              Seminar in Special Topics:Thesis Writing II
+            
+6: 
+              特殊講義「相関社会研究Ⅲ」              Lectures on Special Topics (Interdisciplinary Social Studies IＩＩ）
+            
+6: 
+              特殊講義Ⅱ[韓国朝鮮研究コース]              Lectures on Special Topics II
+            
+6: 
+              特殊講義Ⅱ[北アメリカ研究コース]              Lectures on Special Topics II
+            
+6: 
+              表象文化論特殊研究演習IV              Seminar in Special Topics IV
+            
+6: 
+              表象文化論特殊研究演習Ⅲ              Seminar on Special Topics III
+            
+6: 
+              表象文化論特殊研究演習I              Seminar in Special Topics I
+            
+6: 
+              特殊講義「国際関係論特殊講義Ⅴ」              Lectures on Special Topics (International Relations V）
+            
+6: 
+              特殊講義「国際関係論特殊講義Ⅷ」              Lectures on Special Topics (International Relations VIIＩ）
+            
+6: 
+              特殊講義「相関社会科学特殊講義Ⅳ」              Lectures on Special Topics ( Social Studies IV）
+            
+6: 
+              特殊講義「相関社会科学特殊講義Ⅶ」              Lectures on Special Topics ( Social Studies VＩＩ）
+            
+6: 
+              特殊研究実習「地域社会論実習」              Fieldwork in Special Topics (Community Studies)
+            
+6: 
+              現代思想特殊研究Ⅱ              Special Topics in Contemporary Thought II
+            
+6: 
+              特殊講義「Risk Society and Institutions」              Lectures on Special Topics（Risk Society and Institutions）
+            
+6: 
+              特殊研究演習「政治学外書講読」              Seminar in Special Topics:
+            
+6: 
+              総合日本研究Ⅰ              Special Relay Lectures I
+            
+6: 
+              言語文化論特殊研究（２６）              Special Seminar on Language and Culture
+            
+6: 
+              国際日本研究特論Ⅰ              Special Topics: Japan in East Asia
+            
+6: 
+              日本史学特殊講義              Topics in Japanese History
+            
+6: 
+              特殊講義「現代社会分析」              Lectures on Special Topics (Analytical Studies of Modern Society)
+            
+6: 
+              広域英語圏文化論演習[イギリス研究コース]              Cultures of the English-Speaking World (Seminar)
+            
+6: 
+              国際日本研究文献演習Ⅰ              Supervised Readings I
+            
+6: 
+              総合日本研究演習Ⅱ              Special Relay Lectures： Seminar II
+            
+6: 
+              広域英語圏文化論演習[北アメリカ研究コース]              Cultures of the English-Speaking World (Seminar)
+            
+6: 
+              日本文化資料研究Ⅰ              Approaches to Japanese Cultural Documents I
+            
+6: 
+              ヨーロッパ政治構造論[イギリス研究コース]              European Politics
+            
+6: 
+              アジア政治経済論Ⅱ[アジア・日本研究コース]              Asian Political Economy II
+            
+6: 
+              特殊講義「ヨーロッパ国際政治経済Ⅰ」              Lectures on Special Topics (European Political Economy Ｉ)
+            
+6: 
+              特殊講義「ロシア東欧の政治経済」              Lectures on Special Topics (Politics and Economy of Russia and Eastern Europe)
+            
+6: 
+              研究倫理              Research ethics
+            
+6: 
+              東アジア地域研究演習              Culture and Society in East Asia (Seminar)
+            
+6: 
+              広域英語圏地域論[北アメリカ研究コース]              Politics and Societies of the English-Speaking World
+            
+6: 
+              論文指導Ⅱ[イタリア地中海研究コース]              Thesis Writing II
+            
+6: 
+              ヨーロッパ政治構造論[ロシア東欧研究コース]              European Politics
+            
+6: 
+              ヨーロッパの地理[イタリア地中海研究コース]              Geography of Europe
+            
+6: 
+              アジア地域形成史Ⅰ[アジア・日本研究コース]              Asian History I
+            
+6: 
+              韓国朝鮮文化特殊講義              Topics in Korean Culture
+            
+6: 
+              東欧地域文化特殊演習              Special Cultural Studies of East Europe (Seminar)
+            
+6: 
+              考古学特殊講義              Topics in Archaeology
+            
+6: 
+              国文学特殊講義(1)              Topics in Japanese Literature (1)
+            
+6: 
+              西洋史学特殊講義(1)              Topics in Occidental History (1)
+            
+6: 
+              東洋史学特殊講義(1)              Topics in Oriental History (1)
+            
+6: 
+              知能社会システム卒業研究              Thesis Project
+            
+6: 
+              食の安全研究              Advanced Studies of Food Safety
+            
+7: 
+              共通スペイン語（１）（会話）              Spanish（１）(Conversation)
+            
+7: 
+              広東語（１）（初級）              Cantonese（１）(Introductory)
+            
+7: 
+              台湾語（１）（初級）              Taiwanese（１）(Introductory)
+            
+7: 
+              共通中国語（１）（初級文法）              Chinese（１）(Introductory Grammar)
+            
+7: 
+              共通韓国朝鮮語（２１）（PEAK初級）              Korean（２１）(PEAK Introductory)
+            
+7: 
+              共通韓国朝鮮語（１）              Korean（１）
+            
+7: 
+              共通ラテン語（１）              Latin（１）
+            
+7: 
+              共通フランス語（１８）（PEAK初級）              French（１８）(PEAK Introductory)
+            
+7: 
+              専門スペイン語（１２）              Spanish for Research（１２）
+            
+7: 
+              共通中国語（２１）（上級作文）              Chinese（２１）(Advanced Writing)
+            
+7: 
+              共通中国語（１１）（中級会話）              Chinese（１１）(Intermediate Conversation)
+            
+7: 
+              専門英語（８１）              English for Research（８１）
+            
+7: 
+              専門日本語（１８）              Japanese For Research（１８）
+            
+7: 
+              共通スペイン語（１９）（PEAK中級）              Spanish（１９）(PEAK Intermediate)
+            
+7: 
+              共通英語（１３）              English（１３）
+            
+7: 
+              共通中国語（１４）（中級作文）              Chinese（１４）(Intermediate Writing)
+            
+7: 
+              日本手話（１）              Japanese Sign Language（１）
+            
+7: 
+              共通ドイツ語（８）（論文）              German（８）(Thesis Writing)
+            
+7: 
+              専門英語（１１８）              English for Research（１１８）
+            
+7: 
+              共通英語（１６）              English（１６）
+            
+7: 
+              専門イタリア語（１９）              Italian for Research（１９）
+            
+7: 
+              専門英語（９１）              English for Research（９１）
+            
+7: 
+              共通イタリア語（８）              Italian（８）
+            
+7: 
+              共通スペイン語（４）（講読）              Spanish（４）(Reading)
+            
+7: 
+              ヒンディー語（３）              Hindi（３）
+            
+7: 
+              共通ポルトガル語（２）              Portuguese（２）
+            
+7: 
+              共通アラビア語（２）              Arabic（２）
+            
+7: 
+              専門日本語（１５）              Japanese For Research（１５）
+            
+7: 
+              広東語（４）（初級）              Cantonese（４）(Introductory)
+            
+7: 
+              ベトナム語（２）              Vietnamese（２）
+            
+7: 
+              タイ語（２）              Thai（２）
+            
+7: 
+              共通中国語（４）（中級講読）              Chinese（４）(Intermediate Reading)
+            
+7: 
+              専門日本語（８）              Japanese For Research（８）
+            
+7: 
+              専門英語（７１）              English for Research（７１）
+            
+7: 
+              共通英語（３）              English（３）
+            
+7: 
+              共通ロシア語（６）（会話）              Russian（６）(Conversation)
+            
+7: 
+              共通ドイツ語（５）（会話）              German（５）(Conversation)
+            
+7: 
+              共通中国語（２４）（中級文法）              Chinese（２４）(Intermediate Grammar)
+            
+7: 
+              専門英語（１１１）              English for Research（１１１）
+            
+7: 
+              専門英語（１０１）              English for Research（１０１）
+            
+7: 
+              専門英語（１０８）              English for Research（１０８）
+            
+7: 
+              共通ロシア語（３）（上級作文）              Russian（３）(Advanced Writing)
+            
+7: 
+              専門ラテン語（８）              Latin for Research（８）
+            
+7: 
+              共通英語（２４）              English（２４）
+            
+7: 
+              共通韓国朝鮮語（４）              Korean（４）
+            
+7: 
+              専門中国語（８）              Chinese for Research（８）
+            
+7: 
+              共通英語（６）              English（６）
+            
+7: 
+              サンスクリット語（１）              Sanskrit(１)
+            
+7: 
+              共通イタリア語（５）              Italian（５）
+            
+7: 
+              専門フランス語（３２）              French for Research（３２）
+            
+7: 
+              専門韓国朝鮮語（６）              Korean for Research（６）
+            
+7: 
+              専門英語（９８）              English for Research（９８）
+            
+7: 
+              専門英語（６８）              English for Research（６８）
+            
+7: 
+              セルビア・クロアチア語（２）              Serbo-Croatian（２）
+            
+7: 
+              共通フランス語（７）（精読）              French（７）(Reading)
+            
+7: 
+              専門フランス語（２９）              French for Research（２９）
+            
+7: 
+              日本語（９）              Japanese（９）
+            
+7: 
+              日本語（６）              Japanese（６）
+            
+7: 
+              専門日本語（５）              Japanese For Research（５）
+            
+7: 
+              専門ドイツ語（２７）              German for Research（２７）
+            
+7: 
+              言語学演習(1)              Seminar in Linguistics （1）
+            
+7: 
+              言語学演習(3)              Seminar in Linguistics （3）
+            
+7: 
+              専門ラテン語（５）              Latin for Research（５）
+            
+7: 
+              専門英語（７８）              English for Research（７８）
+            
+7: 
+              スパコンプログラミング（１）（冬学期開講）              Supercomputer Programming 1
+            
+7: 
+              スパコンプログラミング（１）（夏学期開講）              Supercomputer Programming 1
+            
+7: 
+              専門ドイツ語（３０）              German for Research（３０）
+            
+7: 
+              専門フランス語（２２）              French for Research（２２）
+            
+7: 
+              言語文化論特殊研究（１９）              Special Seminar on Language and Culture
+            
+7: 
+              専門英語（８８）              English for Research（８８）
+            
+7: 
+              個別言語構造論特殊演習（１２）              Seminar on the Structures of Specific Languages
+            
+7: 
+              演習（新宅）              Seminar
+            
+7: 
+              演習（米山）              Seminar
+            
+7: 
+              個別言語特殊演習（１０）              Seminar on Special Topics on Specific Languages
+            
+7: 
+              演習（松島）              Seminar
+            
+7: 
+              演習（矢坂）              Seminar
+            
+7: 
+              演習（谷本）              Seminar
+            
+7: 
+              演習（西村）              Seminar
+            
+7: 
+              イスラム学演習(2)              Seminar in Islamic Studies （2）
+            
+7: 
+              共通英語（論文指導３）              English(Thesis Writing 3)
+            
+7: 
+              テクスト分析演習Ⅰ（３）              Seminar： Text Analysis I
+            
+7: 
+              テクスト分析演習Ⅴ（４）              Seminar： Text Analysis V
+            
+7: 
+              プログラミング応用（精密）              Advanced Programming
+            
+7: 
+              中国思想文化史概説(2)              Historical Outline of Chinese Philosophy（2）
+            
+7: 
+              卒業論文（応用生物学専修）              Graduation Thesis
+            
+7: 
+              批評理論文献講読Ⅱ（５）              Reading Critical Theory II
+            
+7: 
+              卒業論文（緑地環境学専修）              Graduation Thesis
+            
+8: 
+              バイオマスエネルギー工学              Introduction to Biomass
+            
+8: 
+              環境工学概論              Principles of Environmental Engineering
+            
+8: 
+              都市工学数理演習I              Exercises on Mathematical Urban Engineering I
+            
+8: 
+              都市工学数理演習II              Exercises on Mathematical Urban Engineering II
+            
+8: 
+              都市工学数理              Mathematical Urban Engineering
+            
+8: 
+              情報工学概論（インターネット工学）              Information Technology (Internet Engineering)
+            
+8: 
+              情報工学Ⅶ              Information Engineering VII
+            
+8: 
+              環境工学･人間工学              Human Ergonomics and Environmental Engineering
+            
+8: 
+              マテリアル工学実験II              Explimentals for Materials Engineering II
+            
+8: 
+              数理情報工学実験第二              Mathematical Information Engineering Laboratory 2
+            
+8: 
+              生命工学実験及演習              Experiments and Exercises in Genetic Engineering
+            
+8: 
+              数理情報工学輪講              Seminar in Mathematical Information Engineering
+            
+8: 
+              経済工学I              Economic Engineering 1
+            
+8: 
+              経済工学II              Economic Engineering 2
+            
+8: 
+              化学工学実験及演習              Experiments and Exercises in Chemical Engineering
+            
+8: 
+              数理科学セミナーⅡ              Seminar on Mathematical Sciences II
+            
+8: 
+              数理科学セミナーⅢ              Seminar on Mathematical Sciences III
+            
+8: 
+              数理科学セミナーⅠ              Seminar on Mathematical Sciences I
+            
+8: 
+              情報数理科学演習Ⅰ              Mathematical and Information Sciences I (Practice)
+            
+8: 
+              マテリアル工学輪講              Seminars for Materials Engineering
+            
+8: 
+              ネットワーク工学概論              Computer Networks
+            
+8: 
+              数理科学演習Ⅰ              Tutorial on Mathematical Sciences I
+            
+8: 
+              システム情報工学演習第二              Exercises in Information Physics and Computing 2
+            
+8: 
+              生命科学概論              Introduction to Life Sciences
+            
+8: 
+              都市工学演習Ｂ第一              Exercises in Urban Engineering B-1
+            
+8: 
+              制御工学II              Control Engineering II
+            
+8: 
+              物理工学実験第一              Physical Engineering Laboratory 1
+            
+8: 
+              環境微生物工学              Environmental Microbiology and Biological Engineering
+            
+8: 
+              地盤の工学              Soil Mechanics
+            
+8: 
+              情報数理科学Ⅲ              Mathematical and Information Sciences　III
+            
+8: 
+              農地環境工学              Land Environmental Engineering
+            
+8: 
+              海岸工学              Coastal Engineering
+            
+8: 
+              統合生命科学セミナーⅠ              Seminar on Integrated Life Scineces I
+            
+8: 
+              機械工学総合演習第二              Mechanical Engineering Practice Modules II
+            
+8: 
+              工学とデザイン              Engineering and Design
+            
+8: 
+              数理生物学[統合生命科学コース]              Mathematical Biology
+            
+8: 
+              情報工学概論（アルゴリズムとデータ構造）              Information Technology (Algorithms and Data Structures)
+            
+8: 
+              電子情報工学実習              Practice on Information and Communication Engineering
+            
+8: 
+              コンクリート工学              Concrete Engineering
+            
+8: 
+              卒業論文(化学生命工学)              Graduation Thesis, Chemistry and Biotechnology
+            
+8: 
+              溶接工学              Welding Engineering
+            
+8: 
+              Global seminar on urban engineering 1（都市工学グローバル輪講第一）              Global seminar on urban engineering 1
+            
+8: 
+              電気工学通論第二              Introductory Electrical Engineering 2
+            
+8: 
+              電気工学通論第一              Outlines of Electrical Engineering 1
+            
+8: 
+              科学技術インタープリター概論              Introduction to Science Interpretation
+            
+8: 
+              機械工学英語輪講              Seminar of Mechanical Engineering in English
+            
+8: 
+              熱工学第一              Thermal Engineering I
+            
+8: 
+              脳神経科学[統合生命科学コース]              Neuroscience
+            
+8: 
+              物質科学セミナーⅠ              Seminar on Materials Science I
+            
+8: 
+              物質科学セミナーⅡ              Seminar on Materials Science II
+            
+8: 
+              物質科学セミナーⅢ              Seminar on Materials Science III
+            
+8: 
+              生物科学セミナーIV              Seminar in Biological Science IV
+            
+8: 
+              宇宙推進工学第二              Space Propulsion 2
+            
+8: 
+              科学哲学概論              Introduction to Philosophy of Science and Technology
+            
+8: 
+              電気自動車工学              Electric Vehicle engineering
+            
+8: 
+              電気工学実験大要Ｂ              Short Course of Electrical Engineering Laboratory B
+            
+8: 
+              統合自然科学セミナー              Seminar on Integrated Sciences
+            
+8: 
+              生体機械工学              Biomechanical Engineering
+            
+8: 
+              マテリアル工学自由研究              Free Study in Materials Engineering
+            
+8: 
+              地盤耐震工学              Soil Dynamics
+            
+8: 
+              卒業論文（生命化学・工学専修）              Graduation Thesis
+            
+8: 
+              統合生命科学実験ⅡＢ              Basic Experiments in Integrated Life Scineces IIB
+            
+8: 
+              バイオインフォマティクス[統合生命科学コース]              Bioinformatics
+            
+8: 
+              安全評価工学              Safety Assessment Engineering
+            
+8: 
+              地盤工学のフロンティア              Recent Topics in Geotechnical Engineering
+            
+8: 
+              数理自然科学特殊講義Ⅱ              Special Lectures on Mathematical Sciences II
+            
+8: 
+              都市環境概論              Outlines of Urban Environment
+            
+8: 
+              量子力学演習Ⅰ[数理自然科学コース]              Tutorial on Quantum Mechanics I
+            
+8: 
+              環境社会科学[相関社会科学コース]              Environment and Society
+            
+8: 
+              健康総合科学概論              Introduction to Itegrated Health Sciences
+            
+8: 
+              生物圏環境科学実験              Experiments in Biosphere Scieｎce
+            
+8: 
+              統計力学Ⅱ[数理自然科学コース]              Statistical Mechanics II
+            
+8: 
+              生命科学概論（マテ・応化・化シス）              Introduction to Life Chemistry
+            
+8: 
+              構成・システム生物学[数理自然科学コース]              Systems and Synthetic Biology
+            
+8: 
+              生命科学概論（電気系・物工・計数）              Introduction to Life Chemistry
+            
+8: 
+              無線通信応用工学              Mobile Communication Systems
+            
+8: 
+              情報人文社会科学Ⅴ              Information and the Humanities / Social Sciences V
+            
+8: 
+              生態学・生態工学              Ecology and Ecological Engineering
+            
+8: 
+              反応動力学Ⅰ[数理自然科学コース]              Chemical Dynamics I
+            
+8: 
+              都市計画概論              Introduction to Urban Planning
+            
+8: 
+              都市デザイン概論              Introduction to Urban Design
+            
+8: 
+              認知行動科学実験Ⅱ              Experiments in Cognitive and Behavioral Sciences II
+            
+8: 
+              宇宙地球科学Ⅱ              Earth Sciences and Astrophysics II
+            
+8: 
+              史学概論              Introduction to Historical Sciences
+            
+8: 
+              薬学概論              Introduction to Pharmaceutical Sciences
+            
+9: 
+              基礎数理Ⅱ              Mathematics for Systems Science II
+            
+9: 
+              基礎数理演習              Seminar in Mathematics
+            
+9: 
+              基礎プロジェクトI              Core Disciplinary Project I
+            
+9: 
+              基礎プロジェクトII              Core Disciplinary Project II
+            
+9: 
+              基礎プロジェクトIII              Core Disciplinary Project III
+            
+9: 
+              基礎プロジェクトIV              Core Disciplinary Project IV
+            
+9: 
+              ＶＬＳＩ工学基礎              Fundamentals of VLSI Technology
+            
+9: 
+              基礎看護学I              Fundamental Nursing I
+            
+9: 
+              基礎看護学II              Fundamental NursingⅡ
+            
+9: 
+              基礎看護学III              Fundamental NursingⅢ
+            
+9: 
+              経済学基礎              Introductory Economics
+            
+9: 
+              基礎経済学              Introduction to Economics
+            
+9: 
+              基礎情報学              Introduction to IT for Civil Engineers
+            
+9: 
+              数理分析の基礎              Basic Mathematical Analysis
+            
+9: 
+              基礎生命科学              Basic Life Science
+            
+9: 
+              物質基礎科学特殊講義Ⅱ              Special Lecture on Material Science II
+            
+9: 
+              物質基礎科学特論Ⅱ              Lecture on Material Science II
+            
+9: 
+              システム工学基礎              Introduction to Systems Engineering
+            
+9: 
+              基礎分析化学              Basic Analytical Chemistry
+            
+9: 
+              民法基礎演習              Tutorial on Basic Civil Law
+            
+9: 
+              文化人類学基礎論              Introduction to Cultural Anthropology
+            
+9: 
+              応用化学基礎論              Introduction to Applied Chemistry
+            
+9: 
+              社会システム工学基礎              Social Systems Analysis
+            
+9: 
+              量子力学演習Ⅰ[物質基礎科学コース]              Tutorial on Quantum Mechanics I
+            
+9: 
+              法学基礎              Jurisprudence Regarding Civil Engineering
+            
+9: 
+              統計力学Ⅱ[物質基礎科学コース]              Statistical Mechanics II
+            
+9: 
+              造形基礎第三              Design Basics III
+            
+9: 
+              造形基礎第一              Design Basics I
+            
+9: 
+              国際コミュニケーションの基礎 I              Basic International Communication I
+            
+9: 
+              国際コミュニケーションの基礎 II              Basic International Communication II
+            
+9: 
+              造形基礎第二              Design Basics II
+            
+9: 
+              物理数学の基礎              Introduction to Mathematical Methods of Physics
+            
+9: 
+              基礎教育学方法論演習II              Elementary Seminar in Basic Theories of Education  II
+            
+9: 
+              基礎教育学方法論演習I              Elementary Seminar in Basic Theories of Education  I
+            
+9: 
+              地理情報分析基礎Ⅰ              Analysis of Geographic Information I
+            
+9: 
+              物質科学実験Ⅰ[物質基礎科学コース]              Basic Experiments in Materials Science I
+            
+9: 
+              物質科学実験Ⅲ[物質基礎科学コース]              Basic Experiments in Materials Science III
+            
+9: 
+              造形基礎第四              Design Basics IV
+            
+9: 
+              反応動力学Ⅰ[物質基礎科学コース]              Chemical Dynamics I
+            
+9: 
+              比較惑星学基礎論              Elementary Comparative Planetology
+            
+9: 
+              信号解析基礎              Fundamentals of Signal Analysis
+            
+9: 
+              基礎流体力学              Fundamental Fluid Mechanics
+            
+9: 
+              地理・空間基礎論Ⅱ              Geography and Spatial Design II
+            
+9: 
+              バイオサイエンスの基礎I              Basic Biosciences I
+            
+9: 
+              基礎天文学観測              Practice in Astronomical Observations
+            
+9: 
+              数理手法I              Mathematical Method I
+            
+9: 
+              数理手法V              Mathematical Method V
+            
+9: 
+              数理手法II              Mathematical Method II
+            
+9: 
+              数理手法III              Mathematical Method III
+            
