@@ -11,7 +11,7 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.preprocessing import Normalizer
  
 FILENAME = 'tweets.csv'
-NUM_CLUSTERS = 5
+NUM_CLUSTERS = 10
 LSA_DIM = 500
 MAX_DF = 0.8
 MAX_FEATURES = 10000

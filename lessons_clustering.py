@@ -25,7 +25,7 @@ def get_tweets_from_csv(filename):
     #     if len(r[2]) != 0:
     #         tweets.append(r[2].decode('utf-8'))
     tweets = [r[2].decode('utf-8') for r in ret]
-    print tweets
+    # print tweets
  
     for tweet in tweets[:]:
         if u'@' in tweet:
